@@ -1,2 +1,0 @@
-# marketingbudgetcalc
-calculate marketing budget
